@@ -1882,8 +1882,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 
-#login-form a {
+a {
   text-align: center;
   text-decoration: none; /* 링크의 밑줄 제거 */
-  color: inherit; /* 링크의 색상 제거 */
+  color: whitesmoke; /* 링크의 색상 제거 */
 }
